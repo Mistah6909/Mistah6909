@@ -5,7 +5,7 @@
                                    | |  | |  | |     ____) |  | |  | |__| | |    | |     
                                    |_|  |_|  |_|    |_____/   |_|   \____/|_|    |_|     
 
-                                                       
+                                               THINGS YOU SHOULD KNOW  
                                               1.I like python the most
                                         2. half of the stuff here isn't finished
                                     3. My favorite finished/WIP projects are in my pins
