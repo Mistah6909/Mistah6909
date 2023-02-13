@@ -9,4 +9,6 @@
                                               1.I like python the most
                                         2. half of the stuff here isn't finished
                                     3. My favorite finished/WIP projects are in my pins
+                                        4. Im learning java for game development
+             5. I don't really prioritize programming and do it for fun so some of these projects will take forever
   
