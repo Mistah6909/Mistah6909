@@ -6,9 +6,7 @@
                                    |_|  |_|  |_|    |_____/   |_|   \____/|_|    |_|     
 
                                                THINGS YOU SHOULD KNOW  
-                                              1.I like python the most
-                                        2. half of the stuff here isn't finished
-                                    3. My favorite finished/WIP projects are in my pins
-                                        4. Im learning java for game development
-             5. I don't really prioritize programming and do it for fun so some of these projects will take forever
-  
+                                        1. half of the stuff here isn't finished
+                                    2. My favorite finished/WIP projects are in my pins
+                                        3. Im learning java for game development
+                                       4.My discord is TheWellManneredMadman#6903  
